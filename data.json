@@ -1,0 +1,322 @@
+[
+    {
+    "id": 1,
+    "nombre": "Ryzen 5 3600 AM4 + Cooler",
+    "precio": 90,
+    "cantidad": 1,
+    "disponible": true,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_16749_Procesador_AMD_RYZEN_5_3600_4.2GHz_Turbo_AM4_Wraith_Stealth_Cooler_f8ab4915-grn.jpg"
+    },
+    {
+    "id": 2,
+    "nombre": "Ryzen 7 5800x AM4",
+    "precio": 190,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_22300_Procesador_AMD_Ryzen_7_5800X_4.7GHz_Turbo_AM4_-_No_incluye_Cooler_05ce1332-grn.jpg"
+    },
+    {
+    "id": 3,
+    "nombre": "Ryzen 9 5900x AM4",
+    "precio": 250,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_22430_Procesador_AMD_Ryzen_9_5900X_4.8GHz_Turbo_AM4_-_No_incluye_Cooler_f09696e5-grn.jpg"
+    },
+    {
+    "id": 4,
+    "nombre": "I3 10105f Socket/1200",
+    "precio": 100,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38642_Procesador_Intel_Core_i3_10105F_4.4GHz_Turbo_Socket_1200_Comet_Lake_33e84369-grn.jpg"
+    },
+    {
+    "id": 5,
+    "nombre": "I5 14400F Socket/1700",
+    "precio": 210,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_29679_Procesador_Intel_Core_i5_12400F_4.4GHz_Turbo_Socket_1700_Alder_Lake_ac34b205-grn.jpg"
+    },
+    {
+    "id": 6,
+    "nombre": "I7 12700K Socket/1700",
+    "precio": 185,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_29140_Procesador_Intel_Core_i7_12700K_5.0GHz_Turbo_Socket_1700_Alder_Lake_4319ac0c-grn.jpg"
+    },
+    {
+    "id": 7,
+    "nombre": "Rx580 8GB DualOC",
+    "precio": 100,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_39364_Placa_de_Video_Asrock_Radeon_RX_7700_XT_12GB_GDDR6_CHALLENGER_OC_a8690c7f-grn.jpg"
+    },
+    {
+    "id": 8,
+    "nombre": "Rx6650xt 8GB",
+    "precio": 200,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_33401_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_589f396b-grn.jpg"
+    },
+    {
+    "id": 9,
+    "nombre": "Rx7600 8GB DualOC",
+    "precio": 250,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38681_Placa_de_Video_ASUS_Dual_Radeon_RX_7600_GDDR6_V2_OC_6a4b8ca0-grn.jpg"
+    },
+    {
+    "id": 10,
+    "nombre": "Gtx1650 4GB OC",
+    "precio": 150,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_18725_Placa_de_Video_MSI_GeForce_GTX_1650_4GB_GDDR6_Ventus_XS_OC_ed050b8e-grn.jpg"
+    },
+    {
+    "id": 11,
+    "nombre": "Rtx3050 6GB OC",
+    "precio": 200,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_40287_Placa_de_Video_Gigabyte_GeForce_RTX_3050_6GB_GDDR6_Windforce_OC__3e47d3a7-grn.jpg"
+    },
+    {
+    "id": 12,
+    "nombre": "Rtx4070Super 12GB",
+    "precio": 270,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38741_Placa_de_Video_MSI_GeForce_RTX_4070_SUPER_12GB_GDDR6X_Ventus_3X_OC_611646c1-grn.jpg"
+    },
+    {
+    "id": 13,
+    "nombre": "Aerocool bionic G Bk.V2",
+    "precio": 30,
+    "cantidad": 1,
+    "disponible": true,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_27390_Gabinete_Aerocool_Bionic_G_BK_V2_Black_1x_120mm_Fan_aRGB_ATX_01261dfc-grn.jpg"
+    },
+    {
+    "id": 14,
+    "nombre": "ASUS Rog Strix Gc601 HeliosAluminium",
+    "precio": 50,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_34179_Gabinete_ASUS_ROG_STRIX_GX601_Helios_Aluminum_White_RGB_9597dabf-grn.jpg"
+    },
+    {
+    "id": 15,
+    "nombre": "Kolink Inspire Vidrio Templado",
+    "precio": 40,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_24600_Gabinete_Kolink_Inspire_K20_Vidrio_Templado_1x120mm_ARGB_9da6fe74-grn.jpg"
+    },
+    {
+    "id": 16,
+    "nombre": "Kolink Void Black ARGB Vidrio Templado",
+    "precio": 35,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_34567_Gabinete_Kolink_Inspire_K3_RGB__M-ATX_Vidrio_Templado_7306ef99-grn.jpg"
+    },
+    {
+    "id": 17,
+    "nombre": "Asrock A520M HDV AM4",
+    "precio": 50,
+    "cantidad": 1,
+    "disponible": true,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_24392_Mother_Asrock_A520M-HDV_AM4_5c7ae4d7-grn.jpg"
+    },
+    {
+    "id": 18,
+    "nombre": "Asrock B550 PhantomGaming 4AC AM4",
+    "precio": 60,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26497_Mother_Asrock_B550_Phantom_Gaming_4_AC_AM4_WIFI_2928c18c-grn.jpg"
+    },
+    {
+    "id": 19,
+    "nombre": "ASUS Rog Strix X670-E E_Gaming",
+    "precio": 85,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_37316_Mother_ASUS_ROG_STRIX_X670E-E_GAMING_WIFI_AM5_DDR5_abb19c26-grn.jpg"
+    },
+    {
+    "id": 20,
+    "nombre": "Asrock B760M Socket 1700 Sonic/Edition",
+    "precio": 55,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://mexx-img-2019.s3.amazonaws.com/Motherboard-1700-14-Gen-Asrock-B760M-PG-SONIC-DDR5-WIFI_47528_5.jpeg"
+    },
+    {
+    "id": 21,
+    "nombre": "ASUS Prime H610M Socket/1700",
+    "precio": 100,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_30442_Mother_ASUS_PRIME_H610M-E_DDR4_S1700_3daea39b-grn.jpg"
+    },
+    {
+    "id": 22,
+    "nombre": "Gigabyte H470M Socket/1200",
+    "precio": 65,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_37182_Mother_Gigabyte_H470M_H_S1200_11c1fdca-grn.jpg"
+    },
+    {
+    "id": 23,
+    "nombre": "AeroCool Cylon 700W 80Plus-B RGB",
+    "precio": 30,
+    "cantidad": 1,
+    "disponible": true,
+    "imagen": "https://s3-sa-east-1.amazonaws.com/saasargentina/mHSeigikzFetqJAbCkJk/imagen"
+    },    
+    {
+    "id": 24,
+    "nombre": "Corsair 550W 80Plus-B",
+    "precio": 50,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_19533_Fuente_Corsair_550W_80_Plus_Bronze_CV550_7fa2fbc5-grn.jpg"
+    },    
+    {
+    "id": 25,
+    "nombre": "Gigabyte 750W 80Plus-G",
+    "precio": 65,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_40366_Fuente_Gigabyte_750W_80_Plus_Gold_UD750GM_Full_Modular_7dbd1b19-grn.jpg"
+    },    
+    {
+    "id": 26,
+    "nombre": "Wesdar MK4 BR ARGB",
+    "precio": 8,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://dcdn.mitiendanube.com/stores/001/022/730/products/instagram-1000x1000-21-5b79dd5ebc8413484a16239612589461-480-0.png"
+    },    
+    {
+    "id": 27,
+    "nombre": "Cougar Vantar S RGB Low Profile Switch Scissor",
+    "precio": 20,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38146_Teclado_Cougar_Vantar_S_RGB_Low_Profile_Switch_Scissor_0c8b1e8d-grn.jpg"
+    },    
+    {
+    "id": 28,
+    "nombre": "Logitech K270 Bk Wireless",
+    "precio": 15,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_39949_Teclado_Logitech_K270_Wireless_Black_fc45eecd-grn.jpg"
+    },    
+    {
+    "id": 29,
+    "nombre": "Logitech M100 Gris",
+    "precio": 5,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_39977_Mouse_Logitech_M100_Gris_USB_5e82a8e7-grn.jpg"
+    },    
+    {
+    "id": 30,
+    "nombre": "RedDragon Centrophorus M601 RGB",
+    "precio": 34,
+    "cantidad": 1,
+    "disponible": true,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_28612_Mouse_Redragon_Centrophorus_M601_RGB_e00743a5-grn.jpg"
+    },    
+    {
+    "id": 31,
+    "nombre": "Hyperx Pulsefire Haste 2 W RGB",
+    "precio": 34,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38107_Mouse_Hyperx_Pulsefire_Haste_2_Black_RGB_181db3a5-grn.jpg"
+    },    
+    {
+    "id": 32,
+    "nombre": "RedDragon Hylas H260W W RGB",
+    "precio": 18,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_31230_Auriculares_Redragon_Hylas_H260_RGB_Pink_68659207-grn.jpg"
+    },    
+    {
+    "id": 33,
+    "nombre": "Hyperx Cloud Stinger Core 2 W",
+    "precio": 36,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38115_Auriculares_Hyperx_Cloud_Stinger_Core_2_White_PS5__PC_Auricular_99adb342-grn.jpg"
+    },    
+    {
+    "id": 34,
+    "nombre": "Cable para fuente 1.5M",
+    "precio": 2,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_1542_Cable_de_poder_para_-_fuente_de_PC_de_3_patas_0_75mm_1_5mts_67eb4525-grn.jpg"
+    },    
+    {
+    "id": 35,
+    "nombre": "Patriot Viper DDR4 8GB 3200MHz Steel",
+    "precio": 20,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_18965_Memoria_Patriot_Viper_DDR4_8GB_3200MHz_Steel_CL16_cb432c2e-grn.jpg"
+    },    
+    {
+    "id": 36,
+    "nombre": "T-Force DDR4 2x8GB 3200MHz Nigth Hawk RGB Black",
+    "precio": 50,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_11557_Memoria_Team_DDR4_16GB__2x8GB__3200MHz_Night_Hawk_RGB_Black_CL16_RGB_Black_f04f26c3-grn.jpg"
+    },      
+    {
+    "id": 37,
+    "nombre": "T-Force DDR5 2x16GB 6400MHz Delta RGB Black",
+    "precio": 140,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_29475_Memoria_Team_DDR5_32GB__2x16GB__6400MHz_T-Force_Delta_RGB_Black_CL40_Intel_XMP_3.0_3e9ff9b6-grn.jpg"
+    },
+    {
+        "id": 38,
+    "nombre": "Fan Antec 120ARGB x3 + Control",
+    "precio": 40,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38520_Cooler_Fan_Antec_Fusion_120_ARGB_Tri-Pack___Controladora_d905f467-grn.jpg"
+    },
+    {
+    "id": 39,
+    "nombre": "ID-Cooling SE-903-SD",
+    "precio": 10,
+    "cantidad": 1,
+    "disponible": true,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_20687_Cooler_CPU_ID-Cooling_SE-903-SD_e07ee99b-grn.jpg"
+    },    
+    {
+    "id": 40,
+    "nombre": "ASUS TUF LC 120 RGB",
+    "precio": 160,
+    "cantidad": 1,
+    "disponible": false,
+    "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_25782_Cooler_CPU_ASUS_TUF_LC_120_RGB_20d9110e-grn.jpg"
+    }
+]
